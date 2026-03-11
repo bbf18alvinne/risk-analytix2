@@ -1,0 +1,5 @@
+{
+  "name": "CreditAnalytix",
+  "description": "An AI-powered credit risk prediction system using Gemini to analyze loan applicant data and provide financial insights.",
+  "requestFramePermissions": []
+}
